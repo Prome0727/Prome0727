@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Prome</h1>
 <h3 align="center">Programmer | Web Designer | Speed Learner</h3>
-<h4 align="center">Founder, Director, CEO at Prome0727</h4>
+<!-- <h4 align="center">Founder, Director, CEO at Prome0727</h4> -->
 
 <div align="center">
 
