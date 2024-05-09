@@ -1,4 +1,4 @@
-![I am Prome0727](https://github.com/Prome0727/Prome0727/blob/main/code.png)
+![I am MTR-BRAND](https://github.com/MTR-BRAND/MTR-BRAND/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm Prome</h1>
 <h3 align="center">Programmer | Web Designer | Speed Learner</h3>
